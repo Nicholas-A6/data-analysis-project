@@ -1,5 +1,10 @@
 # Data Analysis Project
 
+## Project Overview
+This project analyzes exoplanet data to uncover patterns and trends in planetary characteristics. 
+The analysis demonstrates data cleaning, exploratory data analysis (EDA), and visualization skills 
+using Python, pandas, matplotlib, and seaborn.
+
 ## Portfolio Version
 The original submission of this project includes unnecessary course information and guidelines. A clean, user-friendly version can be found in:
 `/portfolio/exoplanet_analysis.ipynb`
@@ -13,9 +18,6 @@ The original university submission is located in:
 - pandas
 - matplotlib
 - Jupyter Notebook
-
-## Project Summary
-Using various tools, the goal was to show that large planets are over-represented in our universe and not necessarily the dominant planet-type. Using NASA's exoplanet archive, I sorted and cleaned the data in order to show a visual representation of my hypothesis.
 
 ## Setup
 ```bash
